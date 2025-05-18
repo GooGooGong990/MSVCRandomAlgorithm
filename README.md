@@ -12,13 +12,13 @@
 #include <stdlib.h>
 
 void main() {
-	srand(7355608);
+    srand(7355608);
 
-	for (int i = 0; i < 10; i++) {
-		int random = rand();
+    for (int i = 0; i < 10; i++) {
+        int random = rand();
 
-		printf("%d\n", random);
-	}
+        printf("%d\n", random);
+    }
 }
 ```
 
