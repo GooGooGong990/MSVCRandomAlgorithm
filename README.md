@@ -24,7 +24,7 @@ void main() {
 
 ## 파이썬
 * [**main.py**](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/main.py)
-```c
+```py
 class srand:
     def __init__(self, seed = 523):
         self.state = seed
