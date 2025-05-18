@@ -3,7 +3,7 @@
 * 파이썬 MSVC 컴파일러 rand 함수 구현
 
 ## 알고리즘
-![Algorithm](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/image.png?raw=true)
+![Algorithm](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/image.png)
 
 ## C
 * [**main.c**](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/main.c)
