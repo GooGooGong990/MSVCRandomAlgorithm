@@ -1,12 +1,12 @@
-<h1 align="center">MSVCRandomAlgorithm</h1>
+<h1 align="center">MSVCRandAlgorithm</h1>
 
 * 파이썬 MSVC 컴파일러 rand 함수 구현
 
 ## 알고리즘
-![Algorithm](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/image.png)
+![Algorithm](https://github.com/GooGooGong990/MSVCRandAlgorithm/blob/main/image.png)
 
 ## C
-* [**main.c**](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/main.c)
+* [**main.c**](https://github.com/GooGooGong990/MSVCRandAlgorithm/blob/main/main.c)
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,7 +23,7 @@ void main() {
 ```
 
 ## 파이썬
-* [**main.py**](https://github.com/GooGooGong990/MSVCRandomAlgorithm/blob/main/main.py)
+* [**main.py**](https://github.com/GooGooGong990/MSVCRandAlgorithm/blob/main/main.py)
 ```py
 class srand:
     def __init__(self, seed = 523):
