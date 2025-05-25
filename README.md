@@ -54,5 +54,5 @@ for i in range(10):
 ```
 
 ## 참고한 문헌
-* [위키백과](https://ko.wikipedia.org/wiki/선형_합동_생성기/)
+* [위키백과](https://ko.wikipedia.org/wiki/선형_합동_생성기)
 * [Microsoft Learn](https://learn.microsoft.com/ko-kr/cpp/c-runtime-library/reference/rand?view=msvc-170)
