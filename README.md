@@ -41,7 +41,7 @@ void main() {
 * [**main.py**](https://github.com/GooGooGong990/MSVCRandAlgorithm/blob/main/main.py)
 ```py
 class srand:
-    def __init__(self, seed = 523):
+    def __init__(self, seed):
         self.state = seed
 
     def rand(self):
